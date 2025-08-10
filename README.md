@@ -49,3 +49,10 @@ image_tag_manager/
 ├── requirements.txt    # 依赖列表
 └── README.md           # 说明文档
 ```
+
+##  项目DEMO 
+![1754804530464](image/README/1754804530464.png) 
+
+## 项目感谢  
+[Qwen3-Coder 挑战赛启动!](https://mp.weixin.qq.com/s/pSP-c-Bi35shM87GAV9OUw)
+![1754804561264](image/README/1754804561264.png)

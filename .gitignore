@@ -1,5 +1,11 @@
-*.pyc  
-__pycache__/  
-cache.json  
-.DS_Store  
-Thumbs.db 
+*.pyc
+__pycache__/
+cache.json
+.DS_Store
+Thumbs.db
+*.log
+.env
+.venv/
+venv/
+*.tmp
+*.bak
