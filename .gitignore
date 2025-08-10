@@ -1,5 +1,5 @@
 *.pyc
-__pycache__/
+*/*/__pycache__
 cache.json
 .DS_Store
 Thumbs.db
@@ -9,3 +9,4 @@ Thumbs.db
 venv/
 *.tmp
 *.bak
+.vscode/

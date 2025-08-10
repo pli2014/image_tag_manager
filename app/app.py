@@ -2,7 +2,7 @@ import os
 import dash
 import dash_bootstrap_components as dbc
 from flask import Flask, send_from_directory, abort
-from config import IMAGE_DIRECTORIES, IMAGE_DIRECTORY
+from config import IMAGE_DIRECTORIES
 from layout import create_layout
 from callbacks import register_callbacks
 from urllib.parse import unquote
