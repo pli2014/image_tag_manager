@@ -1,0 +1,128 @@
+{
+  "D:\\workspace\\qwen_proj\\images\\c9f6fbf5ce9549644fbdb804a6780c16.webp": {
+    "labels": "女孩 白色上衣 粉色花朵 黑发 耳环",
+    "token_usage": {
+      "input_tokens": 1306,
+      "output_tokens": 25,
+      "input_tokens_details": {
+        "image_tokens": 1249,
+        "text_tokens": 57
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 1331,
+      "output_tokens_details": {
+        "text_tokens": 25
+      },
+      "image_tokens": 1249
+    },
+    "md5_path": "9e45b99a143b06715c23dda1fc8800c6.webp",
+    "real_path": "D:\\workspace\\qwen_proj\\images\\c9f6fbf5ce9549644fbdb804a6780c16.webp"
+  },
+  "D:\\workspace\\qwen_proj\\images\\d13f79395f3707de3d6af86ea6444468.webp": {
+    "labels": "女孩 阳台 白色毛衣 牛仔短裤 辫子",
+    "token_usage": {
+      "input_tokens": 1306,
+      "output_tokens": 24,
+      "input_tokens_details": {
+        "image_tokens": 1249,
+        "text_tokens": 57
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 1330,
+      "output_tokens_details": {
+        "text_tokens": 24
+      },
+      "image_tokens": 1249
+    },
+    "md5_path": "827b48c4a0eb166d7cf9a3de2f01071b.webp",
+    "real_path": "D:\\workspace\\qwen_proj\\images\\d13f79395f3707de3d6af86ea6444468.webp"
+  },
+  "D:\\workspace\\qwen_proj\\images\\dd7fc3bcc15a857eb345bd9ac0f8beb1.webp": {
+    "labels": "女孩 白色花朵 白色吊带裙 长发 自然光",
+    "token_usage": {
+      "input_tokens": 1306,
+      "output_tokens": 23,
+      "input_tokens_details": {
+        "image_tokens": 1249,
+        "text_tokens": 57
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 1329,
+      "output_tokens_details": {
+        "text_tokens": 23
+      },
+      "image_tokens": 1249
+    },
+    "md5_path": "14f44f4aedf63491449d98b0bf008d22.webp",
+    "real_path": "D:\\workspace\\qwen_proj\\images\\dd7fc3bcc15a857eb345bd9ac0f8beb1.webp"
+  },
+  "D:\\workspace\\qwen_proj\\images\\target_png.png": {
+    "labels": "海滩 女孩 白色上衣 黑色项圈 阳光",
+    "token_usage": {
+      "input_tokens": 1306,
+      "output_tokens": 26,
+      "input_tokens_details": {
+        "image_tokens": 1249,
+        "text_tokens": 57
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 1332,
+      "output_tokens_details": {
+        "text_tokens": 26
+      },
+      "image_tokens": 1249
+    },
+    "md5_path": "3b95e0098dc0e299a7d1643e739e45fb.png",
+    "real_path": "D:\\workspace\\qwen_proj\\images\\target_png.png"
+  },
+  "D:\\workspace\\qwen_proj\\images2\\AI_voice_girl_face.png": {
+    "labels": "女性 绿幕 黑色上衣 长袖 裁剪",
+    "token_usage": {
+      "input_tokens": 735,
+      "output_tokens": 24,
+      "input_tokens_details": {
+        "image_tokens": 678,
+        "text_tokens": 57
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 759,
+      "output_tokens_details": {
+        "text_tokens": 24
+      },
+      "image_tokens": 678
+    },
+    "md5_path": "79ce7be1fe97e9d1d1f06d816dd20bfa.png",
+    "real_path": "D:\\workspace\\qwen_proj\\images2\\AI_voice_girl_face.png"
+  },
+  "D:\\workspace\\qwen_proj\\images2\\hali.jpg": {
+    "labels": "男人 西装 白衬衫 金色头发 夕阳背景",
+    "token_usage": {
+      "input_tokens": 404,
+      "output_tokens": 18,
+      "input_tokens_details": {
+        "image_tokens": 347,
+        "text_tokens": 57
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 422,
+      "output_tokens_details": {
+        "text_tokens": 18
+      },
+      "image_tokens": 347
+    },
+    "md5_path": "5f08c9e1e27f5933124fd5a055127925.jpg",
+    "real_path": "D:\\workspace\\qwen_proj\\images2\\hali.jpg"
+  }
+}
