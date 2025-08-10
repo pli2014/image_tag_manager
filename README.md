@@ -44,6 +44,8 @@ image_tag_manager/
 │   ├── app.py          # 主应用文件
 │   ├── config.py       # 配置文件
 │   └── image_processor.py  # 图片处理模块
+|   └──utils.py          # 工具函数
+|   └──layout.py         # 布局文件
 ├── images/             # 示例图片目录
 ├── cache.json          # 缓存文件
 ├── requirements.txt    # 依赖列表
